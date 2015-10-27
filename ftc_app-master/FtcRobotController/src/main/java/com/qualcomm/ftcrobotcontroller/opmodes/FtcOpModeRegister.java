@@ -71,7 +71,7 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register("PhoneAccelerOp", PhoneAccelerOp.class);
     manager.register("DetectColor", DetectColor.class);
     manager.register("LinearDetectColor", LinearDetectColor.class);
-
+    manager.register("TestAlexander", TestAlexander.class);
 
     /*
      * Uncomment any of the following lines if you want to register an op mode.
