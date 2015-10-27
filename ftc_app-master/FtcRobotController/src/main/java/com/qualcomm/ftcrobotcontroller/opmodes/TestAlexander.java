@@ -10,12 +10,12 @@ public class TestAlexander extends OpMode {
     @Override
     public void init() {
 
-
+    //Max sits down on the toilet
     }
 
     @Override
     public void loop() {
 
-
+    //Comment to see if this works
     }
 }
