@@ -72,6 +72,9 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register("DetectColor", DetectColor.class);
     manager.register("LinearDetectColor", LinearDetectColor.class);
     manager.register("TestAlexander", TestAlexander.class);
+    manager.register("TestMaxwell", TestMaxwell.class);
+
+
 
     /*
      * Uncomment any of the following lines if you want to register an op mode.
