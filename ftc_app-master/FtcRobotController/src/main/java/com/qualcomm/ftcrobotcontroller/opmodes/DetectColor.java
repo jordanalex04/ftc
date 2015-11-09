@@ -7,7 +7,7 @@ import android.graphics.Bitmap;
  * <p/>
  * Enables control of the robot via the gamepad
  */
-public class DetectColor extends OpModeCamera {
+public class  DetectColor extends OpModeCamera {
 
     int ds2 = 2;  // additional downsampling of the image
     private int looped = 0;
